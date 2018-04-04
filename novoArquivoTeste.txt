@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-hsdbfhsbdgdfgds
-hgdhgdfhfhdgh
-fgggghgd
-fdgdfh
-gh
-dgh
-dhhhhhfgh
-=======
 sajlkjskjdas
 asdasdasd
 
@@ -28,4 +19,3 @@ csdgsfg
 dfhgfhfg
 fhfgh
 fghgfhhg
->>>>>>> master
