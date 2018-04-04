@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 hsdbfhsbdgdfgds
 hgdhgdfhfhdgh
 fgggghgd
@@ -6,26 +5,3 @@ fdgdfh
 gh
 dgh
 dhhhhhfgh
-=======
-sajlkjskjdas
-asdasdasd
-
-asdasdasdsa
-sadasdsadsa
-dasdasdasd
-asdasdsadasd
-asdasdsadasdasdasd
-
-ksjafjsahghjajhjshdfajhs
-
-asdasdasdasdsad
-msadflkjasfkjdf
-adsfldfkjsdfsaf
-kljasdfhkjsdahf
-teste2345
-teste 234r5t6y7u
-csdgsfg
-dfhgfhfg
-fhfgh
-fghgfhhg
->>>>>>> master
